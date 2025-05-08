@@ -1,4 +1,4 @@
-# World-Population
+# World Population Analysis
 - From this project, I can show my litle skill in Python from scraping data, cleaning, getting EDA and visualization
 - I got some insights informations from this analysis project:
   - Compare between India and Chia
